@@ -16,13 +16,14 @@
 	<meta name="author" content="Nilgun Canbaz" />
 	
 	<!-- CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-	<link href="css/custom.css" rel="stylesheet">
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap-theme.min.css" rel="stylesheet">
+	<link href="custom.css" rel="stylesheet">
 	
 	<!-- JS -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/custom.js"></script>
+	<script src="jquery.min.js"></script>
+	<script src="bootstrap.min.js"></script>
+	<script src="custom.js"></script>
 
 </head>
 <body>
