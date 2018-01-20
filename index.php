@@ -112,7 +112,7 @@
             <tbody>
               <?php 
                 if (!isset($_GET['b'])) { $b=0; } else { $b = $_GET['b']; } 
-                if (isset($_POST['search'])) {$kosul=" WHERE bookName LIKE '%".$_POST['search']."%' OR author LIKE '%".$_POST['search']."%' OR year LIKE '%".$_POST['search']."%'";}
+                if (isset($_POST['search'])) {$kosul=" WHERE bookName LIKE '%".$_POST['search']."%' OR author LIKE '%".$_POST['search']."%' OR bDate LIKE '%".$_POST['search']."%'";}
                 else	{$kosul='';}
                 
                 $sql="SELECT * FROM $db_table $kosul ORDER BY id DESC";
