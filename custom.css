@@ -1,0 +1,56 @@
+.container > p > .btn {
+  margin: 5px 0;
+}
+
+.navbar .container {
+  width: auto;
+}
+
+.rc {
+    text-align:center;
+}
+
+.cc {
+    display:inline-block;
+    float:none;
+    text-align:left;
+}
+
+#actions {
+	margin-bottom: 10px;
+}
+
+.forms {
+	margin:5px 0px;
+}
+
+#new_contact, #searchBox, #edit_contact{
+	display:none;
+}
+
+#new_contact .input-group, #edit_contact .input-group {
+	width:140px;
+}
+
+.input-group {
+	margin-right: 5px;
+}
+
+.page-header {
+	height:60px;
+	background: url('image/kitap.png') center left no-repeat;
+	padding-top: 5px;
+	padding-left: 75px;
+	border-style: none;
+}
+
+h1 {
+	display: block;
+	margin-top: 5px;
+	font-size: 3em;
+	color: purple;
+}
+
+#contactsTable button{
+	margin-left:5px;
+}
