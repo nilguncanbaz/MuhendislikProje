@@ -36,12 +36,11 @@
 	margin-right: 5px;
 }
 
-.page-header {
-	height:60px;
-	background: url('image/book.png') center left no-repeat;
-	padding-top: 5px;
-	padding-left: 75px;
-	border-style: none;
+body {
+	
+	background: #000000 url('book.png');
+	background-repeat:repeat;
+	
 }
 
 h1 {
