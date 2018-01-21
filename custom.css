@@ -39,7 +39,7 @@
 body {
 	
 	background: #FFFFFF url('book.png');
-	background-repeat:repeat;
+	background-repeat:no-repeat;
 	
 }
 
