@@ -39,7 +39,9 @@
 body {
 	
 	background: #FFFFFF url('book.png');
-	background-repeat:no-repeat;
+	background-repeat:repeat;
+	background-position:center center;
+	background-attachment:scroll;
 	
 }
 
