@@ -38,7 +38,7 @@
 
 body {
 	
-	background: #000000 url('book.png');
+	background: #FFFFFF url('book.png');
 	background-repeat:repeat;
 	
 }
@@ -46,8 +46,8 @@ body {
 h1 {
 	display: block;
 	margin-top: 5px;
-	font-size: 3em;
-	color: purple;
+	font-size: 5em;
+	color: blue;
 }
 
 #contactsTable button{
