@@ -8,7 +8,6 @@ $db->query("SET NAMES utf8");
 
 ?>
 
-<div id="loading"></div>
 <table class="table" id="contactsTable">
     <thead>
       <tr>
